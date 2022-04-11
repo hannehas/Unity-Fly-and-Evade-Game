@@ -3,9 +3,9 @@ Dieses kleine Unity Game ist während eines zweitägigen Unity3D Workshops entst
 
 Das Spiel wurde als WebGL exportiert und auf einem öffentlichen Server (itch.io) für den leichteren Zugang hochgeladen. 
 Es ist unter folgendem [Link](https://hannehas.itch.io/fly-and-evade-game) mit dem Passwort "unity_WS-Game" erreichbar. 
-Man sollte direkt nach dem play/run die Leertaste mehrmals drücken, damit der Jet-Pilot nicht aus dem Bild verschwindet. 
+Man sollte direkt nach dem Play/ Run die Leertaste mehrmals drücken, damit der Jet-Pilot nicht aus dem Bild verschwindet. 
 Durch das wiederholende drücken der Leertaste steuert man die Höhe des Piloten. 
-Ziel des Spiel ist es den Gegenständen am Boden, sowie den fliegenden auszuweichen und die Münzen einzusammeln.
+Ziel des Spiels ist es den Gegenständen am Boden, sowie den fliegenden auszuweichen und die Münzen einzusammeln.
 
 
 ## Screenshots
